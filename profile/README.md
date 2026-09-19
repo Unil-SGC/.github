@@ -1,9 +1,7 @@
 # Welcome
 
-The [Swiss Geocomputing Centre](https://wp.unil.ch/geocomputing/) is the [UNIL](https://www.unil.ch/index.html) Centre for Computation and Modelling in Geosciences at the [Faculty of Geosciences and Environment](https://www.unil.ch/gse/fr/home/menuinst/faculte/english/studies-at-fgse.html). It is home of various geo-HPC projects and hosts useful resources about bridging the gap between predictive modelling and data-sciences.
+**The [Geocomputing Centre](https://www.unil.ch/fgse/en/home/menuinst/recherche/geocomputing-centre.html) is the UNIL FGSE platform for geocomputing, data science and machine learning.**
 
-We host monthly geocomputing coffee ☕  meetings discussing various on-going geocomputational topics and current challengs. You'll find resources at [Unil-SGC/geocomputing-coffee](https://github.com/Unil-SGC/geocomputing-coffee).
+The Geocomputing Centre brings together researchers of the Faculty of Geosciences and Environment (FGSE) who develop or use computational methods – from numerical modelling and high-performance computing to data science and machine learning.
 
-We pioneer Julia HPC projects and GPU computing:
-- the [GPU4GEO](https://github.com/PTsolvers/GPU4GEO) PASC project
-- the [STREAM EuroHPC](https://eurohpc-ju.europa.eu/access-our-supercomputers/awarded-projects/spontaneous-rearrangment-ice-motion-stream_en) extreme scale allocation
+The Geocomputing Centre GitHub organisation serves as documentation Hub hosting tools, templates and best practices shared by the community.
