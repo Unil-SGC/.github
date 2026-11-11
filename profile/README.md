@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://unil-sgc.github.io"><img src="https://unil-sgc.github.io/logo.png" width="96" alt="Geocomputing Centre logo"></a>
+<a href="https://unil-sgc.github.io"><img src="https://unil-sgc.github.io/logo.png" width="60" alt="Geocomputing Centre logo"></a>
 
 # Geocomputing Centre
 
