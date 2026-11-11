@@ -26,4 +26,4 @@ This organisation hosts the Centre's **[data, software and dev hub](https://unil
 - **[geocomputing-coffee](https://github.com/Unil-SGC/geocomputing-coffee)**, **[python-packaging](https://github.com/Unil-SGC/python-packaging)**, **[julia-packaging](https://github.com/Unil-SGC/julia-packaging)**: material from the Centre's meet-ups and workshops.
 - **[AGDA-Rbook](https://github.com/Unil-SGC/AGDA-Rbook)**: the book of the *Advanced geospatial data analysis* course.
 
-Past [events](https://unil-sgc.github.io/events/) and [news](https://unil-sgc.github.io/news/) of the Centre are archived on the hub.
+Find [events](https://unil-sgc.github.io/events/) and [news](https://unil-sgc.github.io/news/) of the Centre on the hub.
